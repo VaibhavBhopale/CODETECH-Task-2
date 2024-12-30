@@ -1,4 +1,3 @@
-# CODETECH-Task-2
 **Name:-** Vaibhav Ramesh bhopale
 **Company:-** CODETECH IT SOLUTIONS
 **Intern ID:-** CT08DS385
